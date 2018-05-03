@@ -1,22 +1,22 @@
 # Site settings
-title: Your Blog
-SEOTitle: 你的博客 | Your Blog
+title: Amui
+SEOTitle: Amui次元
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: ""
-keyword: ""
-url: "http://huangxuan.me"              # your host, for absolute URL
-baseurl: "/huxblog-boilerplate"         # for example, '/blog' if your blog hosted on 'host/blog'
+email: chunxue-chen@163.com
+description: "看烟花去呀~~"
+keyword: "java开发, 计算机视觉"
+url: "https://amuier.github.io/"              # your host, for absolute URL
+baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
+weibo_username:     Amui
+zhihu_username:     Amui
+github_username:    Amui
 #twitter_username:  huxpro
-facebook_username:  huxpro
+facebook_username:  Amui
 
 
 
