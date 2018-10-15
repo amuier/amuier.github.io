@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "GPU"
-subtitle:   "模型压缩"
+title:      "tensorflow指定使用的GPU"
+subtitle:   ""
 date:       2018-09-10 21:00:00
 author:     "Amui"
 header-img: "img/post-bg-nextgen-web-pwa.jpg"
